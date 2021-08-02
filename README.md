@@ -1,8 +1,12 @@
 # Traffic-Signs-Classification
-A system which will detect the traffic sign captured in the image with favourable as well as unfavourable background and image conditions and generate a caption stating meaning of traffic sign.
-To ease the driver to identify the Traffic Signs and also for the efficient working of Self-Driving Cars. Techs:Python, CNN, Keras.
-train the model using traffic_sign.py file
+
+Tech Stack - Python(Root language), NLP, Keras, DataCleaning Algo, etc.
+
+- The main objective of our project is to design and
+construct a computer based system which can automatically detect the road signs so as to provide assistance to the user or the machine so that they can take appropriate actions. The proposed approach consists of building a model using convolutional neural networks by extracting traffic signs from an image using color information. We have used convolutional neural networks (CNN) to classify the traffic signs and we used color based segmentation to extract/crop signs from images.
 Link of dataset is https://www.kaggle.com/meowmeowmeowmeowmeow/gtsrb-german-traffic-sign
 download dataset in current working directory
 run program using gui.py
+
+
 
